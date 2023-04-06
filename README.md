@@ -3,7 +3,8 @@ Pittari.tech
 
 ## Note
 Due to money shortage, pittari.tech is no longer running, if you would like to know more about it, this short youtube video demonstrates the website within a minute!
-https://www.youtube.com/watch?v=t2F08xNJ3-s&t=2s
+https://www.youtube.com/watch?v=t2F08xNJ3-s&t=2
+You can also check out the slides https://docs.google.com/presentation/d/1ttB-W3G3Nb8p_Bvz810PI-2UKxRvH4Mmpn7rs5kaPgA/edit?usp=sharing
 
 ## Description as a Tweet:
 Are you often stressed? Overwhelmed by your computer science homework? Anxious about the upcoming exam? Then pittari.tech is a great choice for you! Pittari is a safe space for all with a ton of different methods to sooth your mind.
